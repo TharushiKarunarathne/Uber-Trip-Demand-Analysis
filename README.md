@@ -109,13 +109,25 @@ Uber-Trip-Demand-Analysis/
 │
 └── requirements.txt
 ```
+## Visualizations
 
-## Future Improvements
+### Hourly Demand
+![Hourly Demand](images/hourly_demand.png)
 
-* Build predictive demand forecasting models.
-* Create an interactive Tableau dashboard.
-* Perform clustering analysis on pickup locations.
-* Compare demand across multiple months.
+### Weekday Demand
+![Weekday Demand](images/weekday_demand.png)
+
+### Demand Heatmap
+![Demand Heatmap](images/demand_heatmap.png)
+
+### Pickup Locations
+![Pickup Locations](images/pickup_locations.png)
+
+## Tableau Dashboard
+
+![Dashboard](images/tableau_dashboard.png)
+
+An interactive Tableau dashboard was developed to explore Uber ride demand patterns, rider behavior, and geographic pickup trends during September 2014.
 
 ---
 
