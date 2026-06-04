@@ -1,4 +1,4 @@
-# Temporal Analysis of Uber Ride Demand and Urban Mobility Patterns
+# Uber Ride Demand Analysis and Tableau Dashboard
 
 ## Project Overview
 
@@ -80,6 +80,11 @@ The project investigates:
 * Heatmap analysis reveals consistent peak-demand periods.
 * Uber activity is concentrated in dense urban locations.
 * A small number of hours account for a large proportion of total ride demand.
+
+---
+
+## Business Impact:
+The analysis helps identify peak ride-demand periods and high-density pickup zones. These insights can support driver allocation, surge pricing strategy, and operational planning during evening rush hours and high-demand weekdays.
 
 ---
 
